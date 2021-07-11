@@ -1,0 +1,44 @@
+{
+  "champion": "Aatrox",
+  "champion_img": "http://ddragon.leagueoflegends.com/cdn/11.14.1/img/champion/Aatrox.png",
+  "function": "ADC",
+  "spells_img": [
+    "http://ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerFlash.png",
+    "http://ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerTeleport.png"
+  ],
+  "spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "runes": {
+    "Rune1": [
+      "Precision:",
+      "Conqueror",
+      "Triumph",
+      "Legend: Tenacity",
+      "Last Stand"
+    ],
+    "Rune2": [
+      "Domination:",
+      "Taste of Blood",
+      "Ravenous Hunter",
+      "Adaptive Force",
+      "Adaptive Force",
+      "Armor"
+    ]
+  },
+  "skill_upgrade": "1:Q, 2:E, 3:W",
+  "counters": [
+    "Poppy",
+    "Irelia",
+    "Singed",
+    "Vayne"
+  ],
+  "worst_picks": [
+    "Yone",
+    "Ryze",
+    "Gangplank",
+    "Lee Sin",
+    "Teemo"
+  ]
+}
