@@ -1,37 +1,39 @@
 {
-    "champion": "Aatrox",
-    "function": "ADC",
-    "spells": [
-      "Flash",
-      "Teleport"
+  "champion": "Aatrox",
+  "function": "ADC",
+  "spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "runes": {
+    "Rune1": [
+      "Precision:",
+      "Conqueror",
+      "Triumph",
+      "Legend: Tenacity",
+      "Last Stand"
     ],
-    "runes": {
-      "Precision": [
-        "Conqueror",
-        "Triumph",
-        "Legend: Tenacity",
-        "Last Stand"
-      ],
-      "Domination": [
-        "Taste of Blood",
-        "Ravenous Hunter",
-        "Adaptive Force",
-        "Adaptive Force",
-        "Armor"
-      ]
-    },
-    "skill-upgrade": "1:Q, 2:E, 3:W",
-    "counters": [
-      "Poppy",
-      "Irelia",
-      "Singed",
-      "Vayne"
-    ],
-    "worst-picks": [
-      "Yone",
-      "Ryze",
-      "Gangplank",
-      "Lee Sin",
-      "Teemo"
+    "Rune2": [
+      "Domination:",
+      "Taste of Blood",
+      "Ravenous Hunter",
+      "Adaptive Force",
+      "Adaptive Force",
+      "Armor"
     ]
-  }
+  },
+  "skill-upgrade": "1:Q, 2:E, 3:W",
+  "counters": [
+    "Poppy",
+    "Irelia",
+    "Singed",
+    "Vayne"
+  ],
+  "worst-picks": [
+    "Yone",
+    "Ryze",
+    "Gangplank",
+    "Lee Sin",
+    "Teemo"
+  ]
+}
