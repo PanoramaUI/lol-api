@@ -1,0 +1,58 @@
+{
+  "champion": "Ahri",
+  "champion_img": "http://ddragon.leagueoflegends.com/cdn/11.14.1/img/champion/Ahri.png",
+  "function": "Mid",
+  "spells_img": [
+    "https:/ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerFlash.png",
+    "https:/ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerDot.png"
+  ],
+  "spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "runes": {
+    "Rune1": [
+      "Sorcery:",
+      "Manaflow Band",
+      "Transcendence",
+      "Attack Speed",
+      "Adaptive Force",
+      "Armor"
+    ],
+    "Rune2": [
+      "Domination:",
+      "Electrocute",
+      "Taste of Blood",
+      "Eyeball Collection",
+      "Ravenous Hunter"
+    ],
+    "Rune1_img": [
+      "https://blitz-cdn.blitz.gg/runes/sorcery/tree-sorcery.png",
+      "https://blitz-cdn.blitz.gg/runes/sorcery/active/8226.png",
+      "https://blitz-cdn.blitz.gg/runes/sorcery/active/8210.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5005.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5008.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5002.png"
+    ],
+    "Rune2_img": [
+      "https://blitz-cdn.blitz.gg/runes/domination/tree-domination.png",
+      "https://blitz-cdn.blitz.gg/runes/domination/active/8112.png",
+      "https://blitz-cdn.blitz.gg/runes/domination/active/8139.png",
+      "https://blitz-cdn.blitz.gg/runes/domination/active/8138.png",
+      "https://blitz-cdn.blitz.gg/runes/domination/active/8135.png"
+    ]
+  },
+  "skill_upgrade": "1:Q, 2:E, 3:W",
+  "counters": [
+    "Ryze",
+    "Zed",
+    "Irelia",
+    "Yasuo"
+  ],
+  "worst_picks": [
+    "Twisted Fate",
+    "Lux",
+    "Veigar",
+    "Viego"
+  ]
+}
