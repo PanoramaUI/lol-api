@@ -1,7 +1,7 @@
 {
   "champion": "Aatrox",
   "champion_img": "http://ddragon.leagueoflegends.com/cdn/11.14.1/img/champion/Aatrox.png",
-  "function": "ADC",
+  "function": "Top",
   "spells_img": [
     "https://ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerFlash.png",
     "https://ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerTeleport.png"
@@ -19,12 +19,12 @@
       "Last Stand"
     ],
     "Rune2": [
-      "Domination:",
-      "Taste of Blood",
-      "Ravenous Hunter",
+      "Resolve:",
+      "Second Wind",
+      "Revitalize",
       "Adaptive Force",
       "Adaptive Force",
-      "Armor"
+      "Magic Resist"
     ],
     "Rune1_img": [
       "https://static.wikia.nocookie.net/leagueoflegends/images/2/26/Precision_icon.png",
@@ -34,12 +34,12 @@
       "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Last_Stand_rune.png"
     ],
     "Rune2_img": [
-      "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Domination_icon.png",
-      "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Taste_of_Blood_rune.png/",
-      "https://static.wikia.nocookie.net/leagueoflegends/images/2/24/Ravenous_Hunter_rune.png",
-      "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Rune_shard_Adaptive_Force.png",
-      "https://static.wikia.nocookie.net/leagueoflegends/images/a/a3/Rune_shard_Adaptive_Force.png",
-      "https://static.wikia.nocookie.net/leagueoflegends/images/e/e5/Rune_shard_Armor.png"
+      "https://blitz-cdn.blitz.gg/runes/resolve/tree-resolve.png",
+      "https://blitz-cdn.blitz.gg/runes/resolve/active/8444.png",
+      "https://blitz-cdn.blitz.gg/runes/resolve/active/8453.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5008.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5008.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5003.png"
     ]
   },
   "skill_upgrade": "1:Q, 2:E, 3:W",
