@@ -1,0 +1,60 @@
+{
+  "champion": "Akali",
+  "champion_img": "https://ddragon.leagueoflegends.com/cdn/11.10.1/img/champion/Akali.png",
+  "function": "Mid, Top",
+  "spells_img": [
+    "https:/ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerFlash.png",
+    "https:/ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerDot.png"
+  ],
+  "spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "runes": {
+    "Rune1": [
+      "Precision:",
+      "Fleet Footwork",
+      "Presence of Mind",
+      "Legend: Tenacity",
+      "Coup de Grace"
+    ],
+    "Rune2": [
+      "Domination:",
+      "Taste of Blood",
+      "Ravenous Hunter",
+      "Adaptive Force",
+      "Adaptive Force",
+      "Armor"
+    ],
+    "Rune1_img": [
+      "https://blitz-cdn.blitz.gg/runes/precision/tree-precision.png",
+      "https://blitz-cdn.blitz.gg/runes/precision/active/8021.png",
+      "https://blitz-cdn.blitz.gg/runes/precision/active/8009.png",
+      "https://blitz-cdn.blitz.gg/runes/precision/active/9105.png",
+      "https://blitz-cdn.blitz.gg/runes/precision/active/8014.png"
+    ],
+    "Rune2_img": [
+      "https://blitz-cdn.blitz.gg/runes/domination/tree-domination.png",
+      "https://blitz-cdn.blitz.gg/runes/domination/active/8139.png",
+      "https://blitz-cdn.blitz.gg/runes/domination/active/8135.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5008.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5008.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5002.png"
+    ]
+  },
+  "skill_upgrade": "1:Q, 2:W, 3:E",
+  "counters": [
+    "Lucian",
+    "Zed",
+    "Sylas",
+    "Orianna",
+    "Vladimir"
+  ],
+  "worst_picks": [
+    "Anivia",
+    "Talon",
+    "Zoe",
+    "Viktor",
+    "Xerath"
+  ]
+}
