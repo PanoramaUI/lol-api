@@ -1,14 +1,14 @@
 {
   "champion": "Aatrox",
-  "champion-img": "http://ddragon.leagueoflegends.com/cdn/11.14.1/img/champion/Aatrox.png",
+  "champion_img": "http://ddragon.leagueoflegends.com/cdn/11.14.1/img/champion/Aatrox.png",
   "function": "ADC",
+  "spells_img": [
+    "http://ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerFlash.png",
+    "http://ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerTeleport.png"
+  ],
   "spells": [
     "Flash",
     "Teleport"
-  ],
-  "spells-img": [
-    "https://ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerFlash.png",
-    "https://ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerTeleport.png"
   ],
   "runes": {
     "Rune1": [
@@ -27,7 +27,7 @@
       "Armor"
     ]
   },
-  "skill-upgrade": "1:Q, 2:E, 3:W",
+  "skill_upgrade": "1:Q, 2:E, 3:W",
   "counters": [
     "Poppy",
     "Irelia",
