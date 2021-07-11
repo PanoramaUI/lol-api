@@ -1,0 +1,54 @@
+{
+  "champion": "Anivia",
+  "champion_img": "https://ddragon.leagueoflegends.com/cdn/11.10.1/img/champion/Anivia.png",
+  "function": "Mid",
+  "spells": [
+    "Flash",
+    "Teleport"
+  ],
+  "runes": {
+    "Rune1": [
+      "Domination:",
+      "Electrocute",
+      "Taste of Blood",
+      "Eyeball Collection",
+      "Ravenous Hunter"
+    ],
+    "Rune2": [
+      "Precision:",
+      "Presence of Mind",
+      "Coup de Grace",
+      "Attack Speed",
+      "Adaptive Force",
+      "Magic Resist"
+    ],
+    "Rune1_img": [
+      "https://blitz-cdn.blitz.gg/runes/domination/tree-domination.png",
+      "https://blitz-cdn.blitz.gg/runes/domination/active/8112.png",
+      "https://blitz-cdn.blitz.gg/runes/domination/active/8139.png",
+      "https://blitz-cdn.blitz.gg/runes/domination/active/8138.png",
+      "https://blitz-cdn.blitz.gg/runes/domination/active/8135.png"
+    ],
+    "Rune2_img": [
+      "https://blitz-cdn.blitz.gg/runes/precision/tree-precision.png",
+      "https://blitz-cdn.blitz.gg/runes/precision/active/8009.png",
+      "https://blitz-cdn.blitz.gg/runes/precision/active/8014.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5005.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5008.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5003.png"
+    ]
+  },
+  "skill_upgrade": "1:Q, 2:E, 3:W",
+  "counters": [
+    "Akali",
+    "Viego",
+    "Syndra",
+    "Diana"
+  ],
+  "worst_picks": [
+    "Vladimir",
+    "Viktor",
+    "Ahri",
+    "Talon"
+  ]
+}
