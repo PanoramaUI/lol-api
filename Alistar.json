@@ -1,0 +1,60 @@
+{
+  "champion": "Alistar",
+  "champion_img": "https://ddragon.leagueoflegends.com/cdn/11.10.1/img/champion/Alistar.png",
+  "function": "Support",
+  "spells_img": [
+    "https:/ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerFlash.png",
+    "https:/ddragon.leagueoflegends.com/cdn/11.14.1/img/spell/SummonerDot.png"
+  ],
+  "spells": [
+    "Flash",
+    "Ignite"
+  ],
+  "runes": {
+    "Rune1": [
+      "Resolve:",
+      "Aftershock",
+      "Font of Life",
+      "Bone Plating",
+      "Unflinching"
+    ],
+    "Rune2": [
+      "Inspiration:",
+      "Hextech Flashtraption",
+      "Cosmic Insight",
+      "Scaling Cooldown Reduction",
+      "Armor",
+      "Armor"
+    ],
+    "Rune1_img": [
+      "https://blitz-cdn.blitz.gg/runes/resolve/tree-resolve.png",
+      "https://blitz-cdn.blitz.gg/runes/resolve/active/8439.png",
+      "https://blitz-cdn.blitz.gg/runes/resolve/active/8463.png",
+      "https://blitz-cdn.blitz.gg/runes/resolve/active/8473.png",
+      "https://blitz-cdn.blitz.gg/runes/resolve/active/8242.png"
+    ],
+    "Rune2_img": [
+      "https://blitz-cdn.blitz.gg/runes/inspiration/tree-inspiration.png",
+      "https://blitz-cdn.blitz.gg/runes/inspiration/active/8306.png",
+      "https://blitz-cdn.blitz.gg/runes/inspiration/active/8347.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5007.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5002.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5002.png"
+    ]
+  },
+  "skill_upgrade": "1:Q, 2:W, 3:E",
+  "counters": [
+    "Brand",
+    "Zyra",
+    "Xerath",
+    "Pyke",
+    "Senna"
+  ],
+  "worst_picks": [
+    "Galio",
+    "Seraphine",
+    "Yuumi",
+    "Janna",
+    "Rakan"
+  ]
+}
