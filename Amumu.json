@@ -1,0 +1,54 @@
+{
+  "champion": "Amumu",
+  "champion_img": "https://ddragon.leagueoflegends.com/cdn/11.10.1/img/champion/Amumu.png",
+  "function": "Jungle",
+  "spells": [
+    "Flash",
+    "Smite"
+  ],
+  "runes": {
+    "Rune1": [
+      "Precision:",
+      "Conqueror",
+      "Triumph",
+      "Legend: Tenacity",
+      "Last Stand"
+    ],
+    "Rune2": [
+      "Domination:",
+      "Cheap Shot",
+      "Ravenous Hunter",
+      "Attack Speed",
+      "Adaptive Force",
+      "Armor"
+    ],
+    "Rune1_img": [
+      "https://blitz-cdn.blitz.gg/runes/precision/tree-precision.png",
+      "https://blitz-cdn.blitz.gg/runes/precision/active/8010.png",
+      "https://blitz-cdn.blitz.gg/runes/precision/active/9111.png",
+      "https://blitz-cdn.blitz.gg/runes/precision/active/9105.png",
+      "https://blitz-cdn.blitz.gg/runes/precision/active/8299.png"
+    ],
+    "Rune2_img": [
+      "https://blitz-cdn.blitz.gg/runes/domination/tree-domination.png",
+      "https://blitz-cdn.blitz.gg/runes/domination/active/8126.png",
+      "https://blitz-cdn.blitz.gg/runes/domination/active/8135.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5005.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5008.png",
+      "https://blitz-cdn.blitz.gg/runes/shards/active/5002.png"
+    ]
+  },
+  "skill_upgrade": "1:W, 2:E, 3:Q",
+  "counters": [
+    "Nocturne",
+    "Trundle",
+    "Olaf",
+    "Nidalee"
+  ],
+  "worst_picks": [
+    "Gragas",
+    "Ekko",
+    "Rammus",
+    "Kayn"
+  ]
+}
