@@ -1,5 +1,6 @@
 {
   "champion": "Aatrox",
+  "champion-img": "http://ddragon.leagueoflegends.com/cdn/11.14.1/img/champion/Aatrox.png",
   "function": "ADC",
   "spells": [
     "Flash",
